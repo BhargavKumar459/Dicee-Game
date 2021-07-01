@@ -1,0 +1,45 @@
+body{
+  background-color: #3EDBF0;
+}
+h1 {
+  font-family: 'Akronim', cursive;
+  font-size: 7rem;
+  text-align: center;
+}
+.p1{
+
+  font-size: 2.5rem;
+  width: 50%;
+  text-align:center;
+  font-family: 'Akaya Kanadaka', cursive;
+
+}
+.pla1{
+  float: left;
+  margin-left: 20%;
+
+}
+.pla2{
+  float: right;
+  margin-right: 20%;
+  margin-top: 0;
+}
+.p2{
+
+  font-size: 2.5rem;
+  width: 50%;
+  text-align:center;
+  font-family: 'Akaya Kanadaka', cursive;
+
+}
+
+.ending{
+  color: #F98404;
+  font-size: 2rem;
+  height: 0;
+width: 30%;
+padding-top: 500px;
+margin-left: 80%;
+margin-bottom: 20%;
+font-family: 'Great Vibes', cursive;
+}
